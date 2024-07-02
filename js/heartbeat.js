@@ -138,7 +138,7 @@ function init(){
   context = new AudioContext();
 
   //オーディオファイルをロード
-  getAudioBuffer('./sound/heart.mp3', function(buffer) {
+  getAudioBuffer('./sound/sound/heart.mp3', function(buffer) {
     beat = buffer;
   });
 
