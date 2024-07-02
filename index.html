@@ -7,6 +7,7 @@
     <style>
         body {
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             height: 100vh;
@@ -16,11 +17,25 @@
         #heart-rate {
             font-size: 5em;
             color: #e74c3c;
+            margin-bottom: 20px;
+        }
+        #heart-rate-input {
+            font-size: 1.5em;
+            padding: 10px;
+            width: 100px;
+            text-align: center;
+        }
+        #set-heart-rate {
+            font-size: 1.5em;
+            padding: 10px 20px;
+            margin-top: 10px;
         }
     </style>
 </head>
 <body>
     <div id="heart-rate">0</div>
+    <input type="number" id="heart-rate-input" placeholder="心拍数">
+    <button id="set-heart-rate">設定</button>
 
     <script src="heart-rate.js"></script>
 </body>
