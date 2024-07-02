@@ -2,9 +2,9 @@
 #include <PubSubClient.h>
 #include <Servo.h>
 
-// WiFiの設定
-const char* ssid = "I2_lab_s";
-const char* password = "qwer1234";
+// WiFiの設定　書き換えが必要
+const char* ssid = "";
+const char* password = "";
 
 // MQTTブローカーの設定
 const char* mqtt_server = "broker.emqx.io";
