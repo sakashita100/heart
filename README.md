@@ -10,6 +10,8 @@
   - wifiの書き換えが必要
   - コードhttps://github.com/sakashita100/heart/blob/main/arm/servo.c
   - ESP32のダウンロードも必要になる
+  - ツール→ライブラリを管理
+  - <img src="images/ESP32_2.jpg" width=300> 
   - ↓ESP32のモジュールの接続の仕方
   - <img src="images/ESP32.jpg" width=300> 
 
