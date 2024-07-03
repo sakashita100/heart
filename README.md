@@ -17,8 +17,9 @@
    <img src="images/ESP32_3.jpg" width=300>
 
   - ↓ESP32のモジュールの接続の仕方
-   <img src="images/ESP32.jpg" width=300> 
-
+   <img src="images/ESP32.jpg" width=300>
+  - ESP32に繋げたら、シリアルポートを選択する
+   <img src="images/ESP32_4.jpg" width=300>
 
 - 心拍数
   - 心拍数を聞くことが出来る　https://sakashita100.github.io/heart/
