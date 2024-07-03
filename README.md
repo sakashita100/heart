@@ -7,8 +7,8 @@
   - 文字数が4文字だったら腕が動く
   - 文字数が3文字だったら腕が動かない
   - 毎回押さないと動かないので注意する
-  -wifiの書き換えが必要
-  -コードhttps://github.com/sakashita100/heart/blob/main/arm/servo.c
+  - wifiの書き換えが必要
+  - コードhttps://github.com/sakashita100/heart/blob/main/arm/servo.c
 
 
 - 心拍数
