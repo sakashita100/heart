@@ -13,4 +13,5 @@
 
 - 心拍数
   - https://sakashita100.github.io/heart/
-  - https://github.com/sakashita100/heart/blob/main/js/heartbeat.jsに書かれたvar dataの値を変えると心拍数も変えることが出来る
+  - https://github.com/sakashita100/heart/blob/main/js/heartbeat.js
+  - に書かれたvar dataの値を変えると心拍数も変えることが出来る
