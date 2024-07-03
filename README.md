@@ -17,7 +17,7 @@
    <img src="images/ESP32_3.jpg" width=300>
 
   - ↓ESP32のモジュールの接続の仕方
-    <img src="images/ESP32.jpg" width=300> 
+   <img src="images/ESP32.jpg" width=300> 
 
 
 - 心拍数
