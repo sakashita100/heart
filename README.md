@@ -18,6 +18,7 @@
 
   - ↓ESP32のモジュールの接続の仕方
    <img src="images/ESP32.jpg" width=300>
+   
   - ESP32に繋げたら、シリアルポートを選択する
    <img src="images/ESP32_4.jpg" width=300>
 
