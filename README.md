@@ -12,7 +12,7 @@
   - ESP32のダウンロードも必要になる
   - ツール→ライブラリを管理
    <img src="images/ESP32_2.jpg" width=300> 
-  -開いたら検索ボックスに“ESP32”と入れて、Arduino_ESP32_OTAをダウンロードする
+  - 開いたら検索ボックスに“ESP32”と入れて、Arduino_ESP32_OTAをダウンロードする
  <img src="images/ESP32_3.jpg" width=300> 
   - ↓ESP32のモジュールの接続の仕方
    <img src="images/ESP32.jpg" width=300> 
