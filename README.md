@@ -9,6 +9,7 @@
   - 毎回押さないと動かないので注意する
   - wifiの書き換えが必要
   - コードhttps://github.com/sakashita100/heart/blob/main/arm/servo.c
+  - ESP32のダウンロードも必要になる
   - ↓ESP32のモジュールの接続の仕方
   - <img src="images/ESP32.jpg" width=300> 
 
