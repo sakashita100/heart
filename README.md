@@ -21,6 +21,9 @@
    
   - ESP32に繋げたら、シリアルポートを選択する
    <img src="images/ESP32_4.jpg" width=300>
+   
+  - ライブラリ、シリアルポートを選択する
+   <img src="images/ESP32_5.jpg" width=300>
 
 - 心拍数
   - 心拍数を聞くことが出来る　https://sakashita100.github.io/heart/
