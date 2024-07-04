@@ -16,7 +16,7 @@
   - 開いたら検索ボックスに“ESP32”と入れて、Arduino_ESP32_OTAをダウンロードする
    <img src="images/ESP32_3.jpg" width=300>
 
-  - 次に、検索ボックスに“ESP32”と入れて、Arduino_ESP32_OTAをダウンロードする
+  - 次に、検索ボックスに“ESP32”と入れて、PubSubClientをダウンロードする
    <img src="images/ESP32_5.jpg" width=300>
    
 
