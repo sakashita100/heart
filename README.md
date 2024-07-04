@@ -11,17 +11,17 @@
   - コードhttps://github.com/sakashita100/heart/blob/main/arm/servo.c
   - ESP32のダウンロードも必要になる
   - ツール→ライブラリを管理
-   <img src="images/ESP32_2.jpg" width=300>
+   <img src="images/ESP32_2.jpg" width=600>
 
   - 開いたら検索ボックスに“ESP32”と入れて、Arduino_ESP32_OTAをダウンロードする
-   <img src="images/ESP32_3.jpg" width=300>
+   <img src="images/ESP32_3.jpg" width=600>
 
   - 次に、検索ボックスに“ESP32”と入れて、PubSubClientをダウンロードする
-   <img src="images/ESP32_5.jpg" width=300>
+   <img src="images/ESP32_5.jpg" width=600>
    
 
   - ↓ESP32のモジュールの接続の仕方
-   <img src="images/ESP32.jpg" width=300>
+   <img src="images/ESP32.jpg" width=600>
    
   - ESP32に繋げたら、シリアルポートを選択する
    <img src="images/ESP32_4.jpg" width=300>
