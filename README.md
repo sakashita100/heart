@@ -30,7 +30,6 @@
    <img src="images/esp32_ver.jpg" width=300>
 
    
-
 - 心拍数
   - 心拍数を聞くことが出来る　https://sakashita100.github.io/heart/
   - https://github.com/sakashita100/heart/blob/main/js/heartbeat.js
