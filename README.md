@@ -25,6 +25,10 @@
    
   - ESP32に繋げたら、シリアルポートを選択する
    <img src="images/ESP32_4.jpg" width=300>
+
+ - ESP32のバージョンと選択するモジュール
+  <img src="images/esp_ver.jpg" width=300>
+
    
 
 - 心拍数
