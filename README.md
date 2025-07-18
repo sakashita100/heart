@@ -29,7 +29,7 @@
   - ESP32のバージョンと選択するモジュール
    <img src="images/esp32_ver.jpg" width=600>
    <img src="images/as.jpg" width=600>
-
+- ESP32のバージョン2.0.17を選択して動かす
    
 - 心拍数
   - 心拍数を聞くことが出来る　https://sakashita100.github.io/heart/
