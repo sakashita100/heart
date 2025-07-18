@@ -28,6 +28,7 @@
 
   - ESP32のバージョンと選択するモジュール
    <img src="images/esp32_ver.jpg" width=600>
+   <img src="images/as.jpg" width=600>
 
    
 - 心拍数
